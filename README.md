@@ -25,6 +25,8 @@ It validates native trace schema before scoring, rejects malformed or empty inpu
 
 **Live project:** [syntheticbureaucracy.com](https://syntheticbureaucracy.com/)
 
+**Public showcase:** [github.com/gulyetkin/synthetic-bureaucracy](https://github.com/gulyetkin/synthetic-bureaucracy)
+
 **Neravo — AI Execution Governance Layer**
 
 Neravo is an execution governance layer for AI systems.

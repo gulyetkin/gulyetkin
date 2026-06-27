@@ -1,16 +1,46 @@
-## Hi there 👋
+# Gül Yetkin
 
-<!--
-**gulyetkin/gulyetkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI execution governance systems for agentic and LLM-powered workflows.
 
-Here are some ideas to get you started:
+My current work focuses on detecting and reducing execution waste in AI systems: coordination loops, repeated planning, false progress, low real work, evidence gaps, budget-aware execution, and audit-ready decision traces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Work
+
+**SBR — Synthetic Bureaucracy Recompiler**
+
+SBR is a deterministic analyzer for AI-agent workflow traces.
+
+It validates native trace schema before scoring, rejects malformed or empty inputs, detects synthetic bureaucracy, and produces CI-grade reports with:
+
+* Synthetic Bureaucracy Index
+* workflow diagnosis
+* failure modes
+* production-risk badges
+* gate decisions
+* CI exit codes
+
+> SBR is not an LLM judge and not employee monitoring. It analyzes workflow structure and evidence-backed execution behavior.
+
+**Live project:** [syntheticbureaucracy.com](https://syntheticbureaucracy.com/)
+
+**Neravo — AI Execution Governance Layer**
+
+Neravo is an execution governance layer for AI systems.
+
+It is designed to govern AI execution before expensive or high-risk model calls happen, including routing, budget authorization, premium-worthiness checks, quality/failure detection, provider-aware execution, and audit proof.
+
+---
+
+### Technical Focus
+
+`Python` `TypeScript` `Next.js` `CI-grade validation` `AI agent workflows` `LLMOps` `AI governance` `trace analysis` `workflow risk scoring` `budget-aware model routing` `audit-oriented AI infrastructure`
+
+---
+
+### Positioning
+
+My work is focused on execution governance, not simple AI wrappers.
+
+I build systems that analyze, govern, and verify how AI workflows execute.

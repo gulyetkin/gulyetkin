@@ -27,6 +27,17 @@ It validates native trace schema before scoring, rejects malformed or empty inpu
 
 **Public showcase:** [github.com/gulyetkin/synthetic-bureaucracy](https://github.com/gulyetkin/synthetic-bureaucracy)
 
+**PermissionLayer — Permission-aware AI Memory Gateway**
+
+PermissionLayer is a permission-scoped RAG gateway: policy runs before retrieval,
+field redaction runs before prompt construction, and every decision produces a
+hash-chained audit receipt.
+
+> Alpha reference implementation — not production-certified. Same data, same question,
+> different user, different allowed context.
+
+**Repository:** [github.com/gulyetkin/permissionlayer](https://github.com/gulyetkin/permissionlayer)
+
 **Neravo — AI Execution Governance Layer**
 
 Neravo is an execution governance layer for AI systems.

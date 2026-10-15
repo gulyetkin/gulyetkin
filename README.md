@@ -1,4 +1,4 @@
-# Gül Yetkin
+# Gül Yıldız
 
 I build AI execution governance systems for agentic and LLM-powered workflows.
 
